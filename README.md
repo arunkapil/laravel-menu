@@ -1,14 +1,6 @@
 # Laravel Menu
-[![Latest Stable Version](https://poser.pugx.org/lavary/laravel-menu/v/stable.svg)](https://packagist.org/packages/lavary/laravel-menu)
-[![Latest Unstable Version](https://poser.pugx.org/lavary/laravel-menu/v/unstable.svg)](https://packagist.org/packages/lavary/laravel-menu)
-[![Total Downloads](https://poser.pugx.org/lavary/laravel-menu/downloads.svg)](https://packagist.org/packages/lavary/laravel-menu)
-[![License](https://poser.pugx.org/lavary/laravel-menu/license.svg)](https://packagist.org/packages/lavary/laravel-menu)
 
-
-A quick and easy way to create menus in [Laravel 6, 7 and 8](http://laravel.com/)
-
-__For Laravel 4.x, check [version 1.5.0](https://github.com/lavary/laravel-menu/tree/v1.5.0)__
-
+A quick and easy way to create menus in [Laravel 6, 7, 8, and hopefully, 9+](http://laravel.com/)
 ## Documentation
 
 * [Installation](#installation)
@@ -74,7 +66,7 @@ __For Laravel 4.x, check [version 1.5.0](https://github.com/lavary/laravel-menu/
 ## Installation
 
 ```bash
-composer require lavary/laravel-menu
+composer require arunkapil/laravel-menu
 ```
 
 If you are in Laravel 5.5 you won't need to edit your `config/app.php`, if you are in a previous version of Laravel, please do the following:

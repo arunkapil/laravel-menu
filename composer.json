@@ -1,19 +1,19 @@
 {
-    "name": "lavary/laravel-menu",
-    "description": "A quick way to create menus in Laravel 5",
+    "name": "arunkapil/laravel-menu",
+    "description": "A quick way to create menus in Laravel 9",
     "keywords": [
         "laravel"
     ],
-    "homepage": "https://github.com/lavary/laravel-menu",
+    "homepage": "https://github.com/arunkapil/laravel-menu",
     "authors": [
         {
-            "name": "Lavary",
-            "email": "mrl.8081@gmail.com"
+            "name": "arunkapil",
+            "email": "arun.kapil+laravelmenu@gmail.com"
         }
     ],
     "license": "MIT",
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=7.3",
         "illuminate/support": ">=5.0",
         "illuminate/view": ">=5.0"
     },
